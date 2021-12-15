@@ -26,7 +26,8 @@ public class Menu {
         System.out.println("\t 3 - To modify an item in the stock list");
         System.out.println("\t 4 - To remove items from the stock list");
         System.out.println("\t 5 - To search for an item in the stock list");
-        System.out.println("\t 6 - To quit the application");
+        System.out.println("\t 6 - To change an account password");
+        System.out.println("\t 7 - To quit the application");
         System.out.println(" ");
     }
 
